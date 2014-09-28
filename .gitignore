@@ -1,0 +1,15 @@
+.DS_Store
+/.idea
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+*.iml
+/.lein-*
+/.nrepl-port
+/resources/public
+/out
+/.repl
